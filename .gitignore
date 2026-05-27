@@ -12,3 +12,4 @@ project4/Data/
 
 # Generated plots (ノートブックを動かせば再生成できるため、管理外が推奨)
 boxplot_*.png
+iframe_figures/
